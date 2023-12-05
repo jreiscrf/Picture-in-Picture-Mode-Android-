@@ -28,5 +28,9 @@
       </intent-filter>
     </activity>
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false"/>
+    <activity android:name="VideoActivity"
+      android:supportsPictureInPicture="true"
+      android:configChanges=
+        "screenSize|smallestScreenSize|screenLayout|orientation"/>
   </application>
 </manifest>
