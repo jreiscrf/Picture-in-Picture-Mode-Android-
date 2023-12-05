@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RecordMeNow",
+    "slug": "RecordMeNow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
